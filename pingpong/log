@@ -1,0 +1,17 @@
+
+TODO:
+- Sass or whatever for border coloring throughout
+
+Version 1:
+Basic HTML, bootstrap classes used but not working, (no bootstrap yet), image, buttons, text, and containers with little css added.
+
+Version 2:
+bootstrap added.
+sizing and centering of container fixed.
+text styled
+flexboxed and styled buttons (removing row col bootstrap from before)
+added image and hecking got css working on it!
+
+Version 3:
+added dropdown
+implemented first full-working javascript without refactoring
